@@ -17,6 +17,7 @@ def my_title(text):
     return " ".join(words)
 
 def f():
+    a = 1
     return None
 
 def f2():
