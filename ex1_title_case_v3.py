@@ -15,3 +15,9 @@ def my_title(text):
         else:
             words.append(t)
     return " ".join(words)
+
+def f():
+    return None
+
+def f2():
+    return None
